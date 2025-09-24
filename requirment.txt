@@ -3,4 +3,3 @@
 3 matplotlib
 4 sea born 
 5 sci -kitlearn
-6 this is will be my finish library which i ag going to use in my project
